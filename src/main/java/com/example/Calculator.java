@@ -4,7 +4,7 @@ public class Calculator {
 
     // Method to multiply two numbers
     public int multiply(int a, int b) {
-        return a * b;
+        return a + b;
     }
 
     public static void main(String[] args) {
